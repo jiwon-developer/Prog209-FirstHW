@@ -1,4 +1,4 @@
 # Prog209-FirstHW
 First HW from Prog209
 
-I hate gitHub
+I hate gitHub,just kidding
